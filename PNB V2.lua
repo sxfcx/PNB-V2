@@ -3,5 +3,6 @@ return {
   801003, -- SXFCC
   458552, -- Drians
   373174, -- Drians ADD UID
-  38405 -- DLAST
+  38405, -- DLAST
+  827167 -- Itermitas
 }
