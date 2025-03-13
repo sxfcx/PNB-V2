@@ -4,5 +4,6 @@ return {
   458552, -- Drians
   373174, -- Drians ADD UID
   38405, -- DLAST
-  827167 -- Itermitas
+  827167, -- Itermitas
+  926888 -- itermitas add uid
 }
