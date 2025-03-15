@@ -8,5 +8,6 @@ return {
   926888, -- itermitas add uid
   112290, -- Kodokterbang
   186179, -- joopuori
-  923809 -- Arpell giveaway winner
+  923809, -- Arpell giveaway winner
+  926936 -- kodokterbang add uid
 }
