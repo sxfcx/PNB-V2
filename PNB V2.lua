@@ -6,5 +6,6 @@ return {
   38405, -- DLAST
   827167, -- Itermitas
   926888, -- itermitas add uid
-  112290 -- Kodokterbang
+  112290, -- Kodokterbang
+  186179 -- joopuori
 }
