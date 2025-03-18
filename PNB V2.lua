@@ -9,5 +9,6 @@ return {
   112290, -- Kodokterbang
   186179, -- joopuori
   923809, -- Arpell giveaway winner
-  926936 -- kodokterbang add uid
+  926936, -- kodokterbang add uid
+  199852 -- Shan
 }
