@@ -10,5 +10,6 @@ return {
   186179, -- joopuori
   923809, -- Arpell giveaway winner
   926936, -- kodokterbang add uid
-  199852 -- Shan
+  199852, -- Shan
+  899317 -- devilmil
 }
