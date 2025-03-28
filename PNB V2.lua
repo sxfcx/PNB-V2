@@ -12,5 +12,6 @@ return {
   926936, -- kodokterbang add uid
   199852, -- Shan
   899317, -- devilmil
-  697126 -- Youknowfandz
+  697126, -- Youknowfandz
+  753068 -- soulxyzz
 }
