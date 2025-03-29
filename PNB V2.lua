@@ -13,5 +13,6 @@ return {
   199852, -- Shan
   899317, -- devilmil
   697126, -- Youknowfandz
-  753068 -- soulxyzz
+  753068, -- soulxyzz
+  54009 -- sansman gw winner
 }
