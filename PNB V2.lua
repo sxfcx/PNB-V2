@@ -15,5 +15,6 @@ return {
   697126, -- Youknowfandz
   753068, -- soulxyzz
   54009, -- sansman gw winner
-  563493 -- Messi
+  563493, -- Messi
+  24850 -- DLAST ADD UID
 }
