@@ -17,5 +17,7 @@ return {
   54009, -- sansman gw winner
   563493, -- Messi
   24850, -- DLAST ADD UID
-  945527 -- aake
+  945527, -- aake
+  951760,
+  325619
 }
