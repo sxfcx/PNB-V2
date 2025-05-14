@@ -21,5 +21,6 @@ return {
   951760,
   325619,
   948947, -- El
-  406791 -- YowBirdd
+  406791, -- YowBirdd
+  65444 -- Arthurlewy
 }
