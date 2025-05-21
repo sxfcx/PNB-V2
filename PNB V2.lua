@@ -23,5 +23,6 @@ return {
   948947, -- El
   406791, -- YowBirdd
   65444, -- Arthurlewy
-  480302 -- GarHead1
+  480302, -- GarHead1
+  836997 -- Aminari
 }
