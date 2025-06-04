@@ -24,5 +24,7 @@ return {
   406791, -- YowBirdd
   65444, -- Arthurlewy
   480302, -- GarHead1
-  836997 -- Aminari
+  836997, -- Aminari
+  959381, -- almheiri acc 1
+  949401 -- almheiri acc 2
 }
